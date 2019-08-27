@@ -1,11 +1,6 @@
 
 
-# Team Work
-
-## Introduction
-
-.............................
-.................
+# Team Work Challenge
 
 ## Help Sheet
 
