@@ -192,8 +192,12 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objec
 ## Team Challenge
 You are working together as a great team and you want to develop the best project ever!! Teamwork is super important for succeeding :smile: You know that it is crucial to have the best performers in your team and make your project scalable. Let’s go and create a formula for success!
 Your team needs 2 developers, 1 designers and 1 data analyst.
--- First thing we need is to create an object with the names and roles of each one of the 4 members of the team
--- Awesome! Now we need to have their names and position. You need to print their names in a different screen
--- Ok super! now we need to know just the name of the person who works in Data
--- Great, the project is a success but we need to get a CTO. It should be one of the founders of the project. Also, you should add someone else who will get the old position of the new CTO.
+
+- First thing we need is to create an object with the names and roles of each one of the 4 members of the team
+
+- Awesome! Now we need to have their names and position. You need to print their names in a different screen
+
+- Ok super! now we need to know just the name of the person who works in Data
+
+- Great, the project is a success but we need to get a CTO. It should be one of the founders of the project. Also, you should add someone else who will get the old position of the new CTO.
 
